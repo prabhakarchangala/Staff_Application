@@ -13,7 +13,7 @@ It should allow a new staff member to be added through a POST method.
 
 The staff details that area stored will include the following itemsL
 
-  UserId
+  UserId \n
   FirstName
   SurName
   DateOfBirth
