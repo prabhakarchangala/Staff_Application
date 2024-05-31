@@ -13,14 +13,22 @@ It should allow a new staff member to be added through a POST method.
 
 The staff details that area stored will include the following itemsL
 
-  UserId \n
+  UserId 
+  
   FirstName
+  
   SurName
+  
   DateOfBirth
+  
   Array of address
-    StartDate
-    EndDate
-    HouseNumber
-    PostCode
+    
+      StartDate
+      
+      EndDate
+      
+      HouseNumber
+      
+      PostCode
 
 The details can be held in-memory - there is no need for integrating to a database.
